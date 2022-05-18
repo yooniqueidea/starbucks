@@ -70,7 +70,7 @@ new Swiper('.notice-line .swiper-container', {
 new Swiper('.promotion .swiper-container', {
     slidesPerView: 3,
     spaceBetween: 10,
-    centerdSlides: true,
+    centeredSlides: true,
     loop: true,
     // autoplay: {
     //     delay: 5000
